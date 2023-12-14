@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CowsAndBulls.Database
 {
-    static class DescriptionBase
+    public static class DescriptionBase
     {
         private static string normalDescription;
         private static string hardDescription;

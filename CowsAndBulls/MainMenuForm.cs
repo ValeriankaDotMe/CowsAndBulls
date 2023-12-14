@@ -20,7 +20,7 @@ namespace CowsAndBulls
             descriptionBox.Text = DescriptionBase.NormalDescription;
         }
 
-        private void chosenDifficulty_SelectedIndexChanged(object sender, EventArgs e)
+        public void chosenDifficulty_SelectedIndexChanged(object sender, EventArgs e)
         {
             switch (chosenDifficulty.Text)
             {
@@ -67,7 +67,7 @@ namespace CowsAndBulls
             this.Hide();
         }
 
-        private void quitBtn_Click(object sender, EventArgs e)
+        public void quitBtn_Click(object sender, EventArgs e)
         {
             this.Close();
         }

@@ -165,11 +165,11 @@
         private System.Windows.Forms.Label difficultyLabel;
         private System.Windows.Forms.Label userLabel;
         private System.Windows.Forms.TextBox usernameTextbox;
-        private System.Windows.Forms.ComboBox chosenDifficulty;
+        public System.Windows.Forms.ComboBox chosenDifficulty;
         private System.Windows.Forms.Button PlayBtn;
         private System.Windows.Forms.Button highScoresBtn;
         private System.Windows.Forms.Button quitBtn;
-        private System.Windows.Forms.TextBox descriptionBox;
+        public System.Windows.Forms.TextBox descriptionBox;
     }
 }
 

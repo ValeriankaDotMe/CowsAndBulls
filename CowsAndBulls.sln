@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowsAndBulls", "CowsAndBulls\CowsAndBulls.csproj", "{18849126-92BC-45F4-B3F2-F46D617B903A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAB-Test", "CAB-Test\CAB-Test.csproj", "{6BDA6C09-60DC-4E98-ADD4-1B5F944B15A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{18849126-92BC-45F4-B3F2-F46D617B903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18849126-92BC-45F4-B3F2-F46D617B903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18849126-92BC-45F4-B3F2-F46D617B903A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDA6C09-60DC-4E98-ADD4-1B5F944B15A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDA6C09-60DC-4E98-ADD4-1B5F944B15A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDA6C09-60DC-4E98-ADD4-1B5F944B15A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDA6C09-60DC-4E98-ADD4-1B5F944B15A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
